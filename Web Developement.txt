@@ -4,3 +4,7 @@ Welcome to web developement crash course
 html
 css
 javascript
+
+DOM manipulation
+
+
